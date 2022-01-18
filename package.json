@@ -1,0 +1,19 @@
+{
+  "name": "live2d-widget_hge",
+  "version": "1.0.0",
+  "description": "for hgez6",
+  "main": "autoload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgez6/live2d-widget.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hgez6/live2d-widget/issues"
+  },
+  "homepage": "https://github.com/hgez6/live2d-widget#readme"
+}
