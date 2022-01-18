@@ -1,6 +1,6 @@
 {
   "name": "live2d-widget_hge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "for hgez6",
   "main": "autoload.js",
   "scripts": {
