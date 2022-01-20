@@ -30,7 +30,7 @@
 
 #waifu {
 	bottom: -1000px;
-	left: 0;
+	left: 26px;               /*女孩和浏览器左下角底部的左侧距离 */
 	line-height: 0;
 	margin-bottom: -10px;
 	position: fixed;
@@ -87,13 +87,13 @@
 	color: #aaa;
 	opacity: 0;
 	position: absolute;
-	right: -10px;
+	right: -18px;         /*右侧显示工具和人的距离 */
 	top: 70px;
 	transition: opacity 1s;
 }
 
 #waifu:hover #waifu-tool {
-	opacity: 1;
+	opacity: 0.8;      /*右侧按钮透明度 */
 }
 
 #waifu-tool .fa-lg {
@@ -106,7 +106,7 @@
 }
 
 #waifu-tool .fa-lg:hover {
-	color: #0684bd; /* #34495e */
+	color: #0ee2a3; /* #34495e #0684bd 0ee2a3 按钮悬浮时候的颜色*/
 }
 
 @keyframes shake {
