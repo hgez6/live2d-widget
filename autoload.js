@@ -2,7 +2,7 @@
 //const live2d_path = "https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/";
 //const live2d_path = "/live2d-widget/";
 // const live2d_path = "https://cdn.jsdelivr.net/gh/hgez6/live2d-widget/"; jsdelivr无效使用npm的CDN
-const live2d_path = "https://unpkg.zhimg.com/live2d-widget_hge@latest/";   
+const live2d_path = "https://unpkg.zhimg.com/live2d-widget_hge@1.0.3/";    //锁定版本
 
 
 // 封装异步加载资源的方法
