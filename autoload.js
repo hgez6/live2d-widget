@@ -1,7 +1,7 @@
 // 注意：live2d_path 参数应使用绝对路径 https://akilar.top/posts/5b8f515f/
 //const live2d_path = "https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/";
 //const live2d_path = "/live2d-widget/";
-const live2d_path = "https://cdn.jsdelivr.net/gh/hgez6/live2d-widget/"; //jsdelivr无效使用npm的CDN
+const live2d_path = "https://cdn.jsdelivr.net/gh/hgez6/live2d-widget@master/"; //jsdelivr无效使用npm的CDN
 // const live2d_path = "https://unpkg.zhimg.com/live2d-widget_hge@1.0.3/";    //锁定版本
 
 
