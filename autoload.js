@@ -38,7 +38,9 @@ if (screen.width >= 768) {
 			waifuPath: live2d_path + "waifu-tips.json",
 			//apiPath: "https://live2d.fghrsh.net/api/",
 			//cdnPath: "https://cdn.jsdelivr.net/gh/fghrsh/live2d_api/"
-			cdnPath: "https://unpkg.zhimg.com/akilar-live2dapi@latest/"  //修复两个模型无法换装 可以考虑clone我配置好的live2d_api仓库自己部署到其他更快的cdn服务上
+			//cdnPath: "https://unpkg.zhimg.com/akilar-live2dapi@latest/"  //修复两个模型无法换装 可以考虑clone我配置好的live2d_api仓库自己部署到其他更快的cdn服务上
+			cdnPath: "https://npm.elemecdn.com/akilar-live2dapi@latest/"
+
 		});
 	});
 }
