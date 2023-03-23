@@ -2,7 +2,7 @@
 //const live2d_path = "https://cdn.jsdelivr.net/gh/stevenjoezhang/live2d-widget@latest/";
 //const live2d_path = "/live2d-widget/";
 // const live2d_path = "https://cdn.jsdelivr.net/gh/hgez6/live2d-widget@master/"; //jsdelivr有效
-const live2d_path = "https://npm.elemecdn.com/live2d-widget_hge@1.0.4/";    //锁定版本
+const live2d_path = "https://unpkg.com/live2d-widget_hge/";    //锁定版本
 
 
 // 封装异步加载资源的方法

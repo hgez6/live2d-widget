@@ -93,11 +93,11 @@
 }
 
 #waifu:hover #waifu-tool {
-	opacity: 0.8;      /*右侧按钮透明度 */
+	opacity: 1.0;      /*右侧按钮透明度 */
 }
 
 #waifu-tool .fa-lg {
-	color: #7b8c9d;
+	color: #45515d;
 	cursor: pointer;
 	display: block;
 	height: 30px;
@@ -106,7 +106,8 @@
 }
 
 #waifu-tool .fa-lg:hover {
-	color: #0ee2a3; /* #34495e #0684bd 0ee2a3 按钮悬浮时候的颜色*/
+	color: var(--text-bg-hover);
+	/*  #34495e #0684bd 0ee2a3 #0ee2a3 按钮悬浮时候的颜色 */
 }
 
 @keyframes shake {
